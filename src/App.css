@@ -1,0 +1,21 @@
+.icons {
+    display: flex;
+    justify-content: flex-end;
+}
+.icons svg {
+    margin: 5px;
+    cursor: pointer;
+}
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+.navigation-bottom {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-link {
+    margin: 0 5px;
+}
